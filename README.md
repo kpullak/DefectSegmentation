@@ -1,8 +1,7 @@
 # Project Details
 
 # Title: 
-Weakly Supervised Learning for Industrial Optical Inspection 
-(This is work done for one of class projects for graduate level course - CS 591 Algorithms for Data Guided Business Intelligence).
+Weakly Supervised Learning for Industrial Optical Inspection. <br />This is work done for one of class projects for graduate level course - CS 591 Algorithms for Data Guided Business Intelligence.
 
 In this class project, worked on developing a model to detect defects by employing Industrial Optical Inspection data on Textured Surfaces. Approached this problem as an Image Segmentation task.
 
